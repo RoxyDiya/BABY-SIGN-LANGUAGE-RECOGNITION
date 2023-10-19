@@ -142,7 +142,7 @@ The following open source packages are used in this project:
 
   :woman: <b>Firdaous Hajjaji</b> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>hajjaji.2006406@studenti.uniroma1.it</a> <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/">@</a> <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/Firdaous2002">@Firdaous2002</a> <br>
 
 </p>
 
