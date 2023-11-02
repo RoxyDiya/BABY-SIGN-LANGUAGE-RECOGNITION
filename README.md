@@ -138,7 +138,7 @@ The following open source packages are used in this project:
   
   :woman: <b>Elena Martellucci</b> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>martellucci.1988602@studenti.uniroma1.it</a> <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/elena-sapienza">@elena-sapienza</a> <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/elena-martellucci">@elena-martellucci</a> <br>
 
   :woman: <b>Firdaous Hajjaji</b> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>hajjaji.2006406@studenti.uniroma1.it</a> <br>
